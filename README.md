@@ -15,13 +15,15 @@ PowerPulse is a Machine Learning-based electricity demand forecasting system des
 
 ![Dashboard](PowerPulse-Electricity-Demand-Forecasting/screenshots/Screenshot (460).png)
 
-## Features
-- Data Cleaning and Preprocessing
-- Exploratory Data Analysis (EDA)
-- Electricity Demand Forecasting
-- Consumption Trend Analysis
-- Performance Evaluation
-- Data Visualization
+
+## Key Features
+
+- Electricity demand forecasting
+- Historical consumption analysis
+- Data preprocessing and cleaning
+- Machine learning model development
+- Interactive Power BI dashboard
+- Performance evaluation and visualization
 
 ## Technologies Used
 
@@ -58,9 +60,9 @@ The project uses electricity consumption and demand datasets containing historic
 - Interactive dashboard integration
 - Smart grid analytics
 
-## Key Outcomes
+## Project Outcomes
 
-- Forecasted electricity demand using historical data
-- Analyzed consumption trends across cities
-- Built interactive Power BI dashboards
-- Generated insights for energy demand planning
+- Predicted future electricity demand using historical data
+- Identified consumption trends and patterns
+- Built visual dashboards for data interpretation
+- Generated actionable insights for energy planning
