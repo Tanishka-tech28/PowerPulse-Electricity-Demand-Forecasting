@@ -1,5 +1,13 @@
 # ⚡ PowerPulse: Electricity Demand Forecasting
 
+## Project Highlights
+
+- Developed a machine learning-based electricity demand forecasting system
+- Performed data cleaning and exploratory data analysis on historical consumption data
+- Built predictive models to estimate future electricity demand
+- Generated visual insights for consumption trend analysis
+- Implemented using Python, Pandas, NumPy, and Scikit-Learn
+
 ## Overview
 PowerPulse is a Machine Learning-based electricity demand forecasting system designed to analyze historical energy consumption patterns and predict future electricity demand.
 
