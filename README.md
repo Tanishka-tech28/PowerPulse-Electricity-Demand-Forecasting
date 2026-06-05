@@ -24,12 +24,15 @@ PowerPulse is a Machine Learning-based electricity demand forecasting system des
 - Data Visualization
 
 ## Technologies Used
+
 - Python
+- Google Colab
 - Pandas
 - NumPy
 - Matplotlib
 - Scikit-Learn
-- Google Colab
+- Power BI
+- Excel
 
 ## Dataset
 The project uses electricity consumption and demand datasets containing historical energy usage records and related factors.
@@ -54,3 +57,10 @@ The project uses electricity consumption and demand datasets containing historic
 - Real-time forecasting
 - Interactive dashboard integration
 - Smart grid analytics
+
+## Key Outcomes
+
+- Forecasted electricity demand using historical data
+- Analyzed consumption trends across cities
+- Built interactive Power BI dashboards
+- Generated insights for energy demand planning
