@@ -13,7 +13,7 @@ PowerPulse is a Machine Learning-based electricity demand forecasting system des
 
 ## Dashboard Preview
 
-![Dashboard](PowerPulse-Electricity-Demand-Forecasting/screenshots/Screenshot (460).png)
+![Dashboard](./PowerPulse-Electricity-Demand-Forecasting/screenshots/Dashboard_Preview.png)
 
 
 ## Key Features
